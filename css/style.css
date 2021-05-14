@@ -22,3 +22,7 @@
   width: 44px;
   height: 32px;
 }
+.search{
+    width: 25.5px;
+    height: 25.5px;
+    display: none;
